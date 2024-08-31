@@ -30,6 +30,6 @@
     "postcss-nested": "^2.0.2",
     "postcss-simple-vars": "^4.0.0",
     "waypoints": "^4.0.1",
-    "webpack": "^3.0.0"
+    "webpack": "^5.94.0"
   }
 }
